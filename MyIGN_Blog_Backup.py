@@ -1,3 +1,17 @@
+'''
+How to run this program:
+
+You need BeautifulSoup from here: https://www.crummy.com/software/BeautifulSoup/bs4/download/4.5/
+And requests from here: https://github.com/kennethreitz/requests/tarball/master
+
+Download them both and extract folders. 
+
+Go to both folders and run the python file by typing in terminal (open terminal in that folder) 'python setup.py'
+
+You are done.
+
+'''
+
 import requests
 from bs4 import BeautifulSoup
 

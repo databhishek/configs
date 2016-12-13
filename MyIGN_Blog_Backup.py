@@ -1,7 +1,7 @@
 '''
 How to run this program:
 
-Install Python3 on your computer from https://www.python.org/downloads/,
+Install Python3 on your computer from https://www.python.org/downloads/.
 
 You need BeautifulSoup from here: https://www.crummy.com/software/BeautifulSoup/bs4/download/4.5/
 And requests from here: https://github.com/kennethreitz/requests/tarball/master

@@ -1,2 +1,2 @@
 # scripts
-Here I keep all the scripts that help me perfomr laborious stuff easily.
+Here I keep all the scripts that help me perform laborious stuff easily.

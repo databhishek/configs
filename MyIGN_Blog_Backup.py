@@ -36,7 +36,3 @@ for year in range(year_low, year_up+1):
       text_file.write('\n\n\n')
       text_file.write(div.text)
       text_file.close()
-    
-    
-
-

@@ -13,8 +13,7 @@ typedef vector<vi> vvi;
 
 int main()
 {
-
-
+  
   return 0;
 }
 

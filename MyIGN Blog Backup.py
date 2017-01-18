@@ -13,7 +13,6 @@ Go to both folders and run the python file by typing in terminal (open terminal 
 Run script by going to folder where script is stored, open terminal here and type 'python3 MyIGN_Blog_Backup.py'.
 
 You are done.
-
 '''
 
 import requests

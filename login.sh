@@ -18,7 +18,7 @@ curl -sd 'mode=191' \
      -sd 'popupalert=0' \
      -sd 'dtold=0' \
      -sd 'mac=04:c5:a4:f6:22:c5' \
-     -sd 'servername=mahe4.dvois.com' \
+     -sd 'servername=mahe3.dvois.com' \
      -sd 'temptype=' \
      -sd 'username='$1'' \
      -sd 'password='$2'' \
@@ -28,6 +28,6 @@ curl -sd 'mode=191' \
      -sd 'registeruserotp=false' \
      -sd 'registercaptcha=false' \
      --output /dev/null \
-     https://mahe4.dvois.com/24online/servlet/E24onlineHTTPClient
+     https://mahe3.dvois.com/24online/servlet/E24onlineHTTPClient
      
      notify-send "ION Connected" -t 2000
